@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RevitDBLink</Name>
+    <!-- <Assembly>C:\Program Files\Autodesk\Revit DB Link 2016\RevitDBLink.dll</Assembly> -->
+    <Assembly>C:\Users\coyove\Documents\Luavit\Luavit\bin\Debug\RevitDBLink.dll</Assembly>
+    <ClientId>9a26d120-548b-49bb-b2af-a419ae3320ee</ClientId>
+    <FullClassName>Revit.Addon.RevitDBLink.CS.App</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, subscription.autodesk.com</VendorDescription>
+  </AddIn>  
+</RevitAddIns>
